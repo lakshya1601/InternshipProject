@@ -9,3 +9,7 @@
 
 3.Basic layout followed.
 
+
+4.jsx and js files in src.
+
+
